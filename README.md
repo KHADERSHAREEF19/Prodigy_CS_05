@@ -1,4 +1,4 @@
-# Prodigy_CS_05
+# Network Navigator
 My final fifth task as intern in PRODIGY INFOTECH.
 
 Task about: Network packet analyzer.
